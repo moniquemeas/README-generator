@@ -1,48 +1,46 @@
 const generatePage = (data) => {
 
  
-    return `
-    # Preoject Name: ${data.name}
+  return `
+  # Preoject Name: ${data.name}
 
 
-    # Badges: 
-    ![License](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://opensource.org/licenses/${data.license})
+  # Badges: 
+  ![License](https://img.shields.io/badge/License-${data.license}-blue.svg)
 
 
-    # GitHub username: ${data.username}
+  # GitHub username: ${data.username}
     
-    # Table of Contents
-    * [Description](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Test](#test)
-    * [Contributing](#contributing)
-    * [License](#license)
-    * [Contact](#contact)
+  # Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Test](#test)
+  * [Contributing](#contributing)
+  * [License](#license)
+  * [Contact](#contact)
 
-    # Description:
-      ${data.description}
+  # Description:
+  ${data.description}
     
-    # Installation
-      ${data.install}
+  # Installation
+  ${data.install}
     
-    # Usage
-      ${data.usage}
+  # Usage
+  ${data.usage}
     
-    # Test:
-      ${data.test}
+  # Test:
+  ${data.test}
     
-    # Contributing:
-      ${data.contributor}
+  # Contributing:
+  ${data.contributor}
     
-    # License:
-      ${data.license}
-      To find out more about ${data.license} go to (#https://opensource.org/licenses/${data.license})
+  # License:
+  * ${data.license}
+  * To find out more about ${data.license} go to:
+  * https://opensource.org/licenses/${data.license}
     
-    # Contact:
-      ${data.contact}
-
-    `
-  
-  }
+  # Contact:
+  ${data.contact}`
+  };
   module.exports = generatePage;
