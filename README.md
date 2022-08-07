@@ -3,7 +3,7 @@
 
 
     # Badges: 
-    [![License](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+    ![License](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 
     # GitHub username: moniquemeas
@@ -34,7 +34,7 @@
     
     # License:
       ISC
-      To find out more about ISC go to (#https://opensource.org/licenses/ISC)
+      To find out more about ISC go to https://opensource.org/licenses/ISC
     
     # Contact:
       monique.meas@gmail.com

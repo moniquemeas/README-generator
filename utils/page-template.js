@@ -6,7 +6,7 @@ const generatePage = (data) => {
 
 
     # Badges: 
-    [![License](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://opensource.org/licenses/${data.license})
+    ![License](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://opensource.org/licenses/${data.license})
 
 
     # GitHub username: ${data.username}
