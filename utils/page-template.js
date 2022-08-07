@@ -2,7 +2,7 @@ const generatePage = (data) => {
 
  
   return `
-  # Preoject Name: ${data.name}
+  # Project Name: ${data.name}
 
 
   # Badges: 
