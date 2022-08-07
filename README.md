@@ -1,5 +1,5 @@
 
-  # Preoject Name: README-generator
+  # Project Name: README-generator
 
 
   # Badges: 
@@ -28,14 +28,16 @@
     
   # Test:
   To run test, simply answer all the question in the command line.
+  Test Demo
+  ![Test](./assets/README-Demo.webm)
     
   # Contributing:
   Monique Meas
     
   # License:
   * MIT
-  * To find out more about MIT go to:
-  * https://opensource.org/licenses/MIT
+  To find out more about MIT go to:
+  https://opensource.org/licenses/MIT
     
   # Contact:
   monique.meas@gmail.com
