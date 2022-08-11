@@ -27,9 +27,9 @@
   Answer all the questions in the command line, and README file will automatically be genarated.
     
   # Test:
-  To run test, simply answer all the question in the command line.
-  Test Demo
-  [![README-Generator Demo](https://drive.google.com/file/d/12DlPSz2fFp4VBjcRavjOn7vcSbEFD0ma/view)](https://drive.google.com/file/d/12DlPSz2fFp4VBjcRavjOn7vcSbEFD0ma/view)
+  * To run test, simply answer all the question in the command line.
+  * Test Demo
+  * [![README-Generator Demo](https://drive.google.com/file/d/12DlPSz2fFp4VBjcRavjOn7vcSbEFD0ma/view)](https://drive.google.com/file/d/12DlPSz2fFp4VBjcRavjOn7vcSbEFD0ma/view)
     
   # Contributing:
   Monique Meas
